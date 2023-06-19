@@ -21,8 +21,15 @@ export default function WelcomeHome () {
 
             </div>
             {/* ---body----- */}
+            <div className="flex flex">
+            <div className="w-3/4">
              <div className='mx-8 p-4'>
                 <h1 className='text-2xl font-bold pt-24'>Find a <span className='text-cyan-400'>doctor</span> & <br></br> make an <span className='text-cyan-400'>appointment</span> online</h1>
+             </div>
+             </div>
+             <div className="w-4/4">
+                wewe
+             </div>
              </div>
 
 
