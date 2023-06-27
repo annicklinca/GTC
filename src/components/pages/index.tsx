@@ -184,6 +184,11 @@ export default function WelcomeHome () {
                 </div>
             </div>
         </div>
+        {/* #footer */}
+        <div className='bg-blue-100'>
+          <p>- ssssssdds</p>
+
+        </div>
 
     </>)
 }
